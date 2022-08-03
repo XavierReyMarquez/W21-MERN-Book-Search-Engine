@@ -10,7 +10,6 @@ A book search engine using Google that allows users to save their books.
 - [Setup](#setup)
 - [Code](#code)
 - [Licenses](#licenses)
-- [Inspiration](#inspiration)
 - [Contact](#contact)
 
 ## General info
@@ -42,11 +41,6 @@ This book search engine allows a user to search for books and save them!
 ## Licenses
 
 - MIT license
-- ISC
-
-## Inspiration
-
-The starter code was cloned and changed to a MERN format by Alex Chigas.
 
 ## Contact
 
